@@ -29,13 +29,17 @@ I build modern, high-performance, secure and growth-focused digital experiences.
 </div>
 
 
-# 👨‍💻 About Me
+# 🍁 About Me
 
-I'm **Developer Tuhin Patra**, a passionate **Web & App Developer** focused on building modern, secure, high-performance and business-focused digital solutions.
+Hi, I'm **Developer Tuhin Patra**, a **Web & App Developer**.
 
-I help businesses and individuals establish a powerful online presence through modern development, website security, search optimization and digital marketing.
+I build websites and web applications that are modern, fast, and easy to use. I also work on **website security, hack recovery, SEO, and Meta Ads**.
 
-## 🚀 What I Do
+I enjoy helping businesses and individuals improve their online presence with simple and effective digital solutions.
+
+My goal is to build websites and digital projects that not only look good but also work well and help businesses grow.
+
+## ☘️ What I Do
 
 - 🌐 **Web Development** — Modern, responsive and high-performance websites.
 - 📱 **App Development** — Scalable and user-focused digital applications.
