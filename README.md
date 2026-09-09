@@ -13,25 +13,25 @@
 I build modern, high-performance, secure and growth-focused digital experiences.
 </p>
 
-<br>
 </div>
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-0A1F44?style=flat-square&logo=googlechrome&logoColor=white)](https://tuhinwebsolutions.in/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/developer.tuhin.patra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/developer_tuhin_patra/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-tuhin-patra-india/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dev_tuhin_patra)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Developer_TuhinPatra/)
-[![Email](https://img.shields.io/badge/Email-C9A227?style=flat-square&logo=gmail&logoColor=white)](mailto:developer.tuhin.patra@gmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/developer.tuhin.patra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/developer_tuhin_patra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-tuhin-patra-india/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dev_tuhin_patra)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Developer_TuhinPatra/)
+[![Website](https://img.shields.io/badge/Website-0A1F44?style=flat&logo=googlechrome&logoColor=white)](https://tuhinwebsolutions.in/)
+[![Email](https://img.shields.io/badge/Email-C9A227?style=flat&logo=gmail&logoColor=white)](mailto:developer.tuhin.patra@gmail.com)
 
 </div>
 
 
 # 👨‍💻 About Me
 
-I'm **Tuhin Patra**, a passionate **Web & App Developer** focused on building modern, secure, high-performance and business-focused digital solutions.
+I'm **Developer Tuhin Patra**, a passionate **Web & App Developer** focused on building modern, secure, high-performance and business-focused digital solutions.
 
 I help businesses and individuals establish a powerful online presence through modern development, website security, search optimization and digital marketing.
 
