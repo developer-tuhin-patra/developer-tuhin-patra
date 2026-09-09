@@ -15,17 +15,18 @@ I build modern, high-performance, secure and growth-focused digital experiences.
 
 <br>
 
-<a href="https://tuhinwebsolutions.in/">
-<img src="https://img.shields.io/badge/🌐_Visit_My_Website-0A1F44?style=for-the-badge&labelColor=0A1F44" />
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/developer-tuhin-patra-india/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A1F44?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
+## 🌐 Socials:
 
-<a href="https://www.instagram.com/developer_tuhin_patra/">
-<img src="https://img.shields.io/badge/Instagram-Follow-C9A227?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/developer.tuhin.patra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/developer_tuhin_patra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-tuhin-patra-india/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dev_tuhin_patra)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Developer_TuhinPatra/)
+[![Website](https://img.shields.io/badge/Website-0A1F44?style=flat-square&logo=googlechrome&logoColor=white)](https://tuhinwebsolutions.in/)
+[![Email](https://img.shields.io/badge/Email-C9A227?style=flat-square&logo=gmail&logoColor=white)](mailto:developer.tuhin.patra@gmail.com)
 
 </div>
 
