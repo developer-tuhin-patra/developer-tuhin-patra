@@ -1,9 +1,9 @@
-<img width="260" alt="Developer-Tuhin-Patra-pic" src="https://github.com/user-attachments/assets/4a639f09-b0d0-4cd2-978c-9512361818e3" />
+
 <br>
 
-<div align="center">
+<div align="left">
 
-# 👋 Hi, I'm Developer Tuhin Patra
+# 💫Hi 👋, I'm Developer Tuhin Patra
 
 ### 🚀 Web & App Developer | Website Security & Hack Recovery
 
@@ -61,16 +61,7 @@ I help businesses and individuals establish a powerful online presence through m
 
 ---
 
-# 💼 My Development Focus
 
-| 🌐 Development | 🔐 Security | 📈 Growth |
-|---|---|---|
-| Responsive Websites | Website Protection | SEO Optimization |
-| Web Applications | Hack Recovery | Google Visibility |
-| WordPress Development | Security Hardening | Meta Ads |
-| Performance Optimization | Malware Cleanup | Digital Growth |
-
----
 
 # 🔥 Currently Working On
 
@@ -81,20 +72,6 @@ I help businesses and individuals establish a powerful online presence through m
 📈 Exploring advanced SEO strategies and Google ranking techniques
 
 🤖 Working on AI-powered digital tools and automation systems
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=developer-tuhin-patra&show_icons=true&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF&bg_color=0D1117" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-tuhin-patra&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227" />
-
-</div>
 
 ---
 
